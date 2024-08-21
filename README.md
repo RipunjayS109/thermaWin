@@ -38,10 +38,13 @@ Stay tuned for new features in the upcoming versions:
 ---
 
 🔧 **Developed with love by Ripunjay Singh** 🔧  
-Licensed under the [MIT License]([license.txt](https://github.com/user-attachments/files/16686349/license.txt)
+Licensed under the [MIT License](https://github.com/user-attachments/files/16686349/license.txt)
 
 ---
 
 **thermaWin** – Making Thermal Analysis Accessible and Fun! 🎉
 
 ---
+
+🤝 **Lets Connect:**
+Linkedin: [Ripunjay Singh](https://www.linkedin.com/in/ripunjay-singh-55b1a6223/)
